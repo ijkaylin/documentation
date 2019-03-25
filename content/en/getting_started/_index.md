@@ -106,7 +106,7 @@ metric is above or below a certain threshold:
 
 {{< partial name="whats-next/whats-next.html" >}}
 
-[1]: /agentfjdsalhfdsahfli
+[1]: /agent
 [2]: http://www.datadoghq.com/product
 [3]: http://www.datadoghq.com/integrations
 [4]: /api

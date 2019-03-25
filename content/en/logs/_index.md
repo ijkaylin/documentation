@@ -151,7 +151,7 @@ Your logs are collected and centralized into the [Log Explorer][3] view. You can
 
 {{< partial name="whats-next/whats-next.html" >}}
 
-[1]: /logs/log_collection
+[1]: /logs/log_collectionnfjkdskfjs
 [2]: /logs/processing
 [3]: /logs/explore
 [4]: /logs/explorer/analytics
