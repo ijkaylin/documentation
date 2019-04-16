@@ -6,6 +6,7 @@ aliases:
   - /fr/guides/
   - /fr/faq/
 disable_toc: true
+sitemap_exclude: true
 ---
 # Bienvenue dans la documentation de Datadog !
 
